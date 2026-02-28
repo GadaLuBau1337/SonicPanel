@@ -1,87 +1,103 @@
-# 🚀 SONIC NETWORK – CLI Panel
+# 🚀 SONIC NETWORK – CLI PANEL DDOS
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Platform](https://img.shields.io/badge/Platform-Linux-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![License](https://img.shields.io/badge/License-Educational-orange)
+<p align="center">
+<img src="preview/preview.jpg" width="800">
+</p>
 
-A powerful and lightweight **CLI Control Panel DDoS** built with Python.  
-Designed for **network stress testing simulations and educational research purposes only**.
-
----
-
-## ⚡ Features
-
-- 🎨 Clean Colored CLI Interface
-- 🔐 Login System
-- 🧠 Command Parsing System
-- 🖥 Layer4/Layer7/AMP Methods
-- 📊 Attack Banner Output
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3.x-00ffff?style=for-the-badge">
+<img src="https://img.shields.io/badge/Platform-Linux-ff00ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Active-00ff88?style=for-the-badge">
+<img src="https://img.shields.io/badge/Purpose-Educational-ffaa00?style=for-the-badge">
+</p>
 
 ---
 
-## 📂 Project Structure
+## 💀 ABOUT SONIC NETWORK
+
+**SONIC NETWORK** is a lightweight CLI network testing simulation panel built using Python.
+
+Designed for:
+- Cybersecurity learning  
+- Network simulation research  
+- Educational laboratory testing  
+
+This project is strictly for educational purposes only.
+
+---
+
+## ⚡ FEATURES
+
+- ✔ Clean Cyber CLI Interface  
+- ✔ Login Authentication System  
+- ✔ Command Parsing Engine  
+- ✔ Layer4 / Layer7 / AMP Methods  
+- ✔ Attack Execution Banner  
+- ✔ Timer Based Execution System  
+
+---
+
+## 📂 PROJECT STRUCTURE
 
 ```
 SONIC-NETWORK/
+│
+├── preview/
+│   └── preview.jpg
 │
 ├── main.py
 ├── src/
 │   └── layer4/
 │       ├── TCP-DOWN
-│       └── (other methods)
+│       └── methods
+│
+├── LICENSE
 └── README.md
-└── LICENSE
 ```
 
 ---
 
-## 🖥 Example Command
+## 🖥 COMMAND FORMAT
 
-Inside the panel:
+Inside CLI panel:
 
 ```
-TCP-DOWN <ip> <port> <threads> <pps> <time>
+METHOD <target> <port> <threads> <pps> <time>
 ```
 
 Example:
 
 ```
-TCP-DOWN 1.1.1.1 80 100 1000 60
+TCP-DOWN 127.0.0.1 80 100 1000 60
 ```
 
 ---
 
-## 🧩 How It Works
+## 🧩 HOW IT WORKS
 
-1. User inputs command in CLI.
-2. Script parses arguments using `cmd.split()`.
-3. Module is executed via `subprocess.Popen`.
-4. Custom banner is displayed.
-5. Script waits using `time.sleep()` based on user input duration.
-
----
-
-## 🔒 Login System
-
-The panel includes a basic login mechanism to restrict access before command execution.
+1. User login authentication  
+2. CLI command parsing using Python 
+3. Subprocess execution for modules 
+4. Panel banner output 
+5. Timer based execution control  
 
 ---
 
-## 🎨 CLI Preview
+## 🔒 SECURITY NOTICE
 
-```
-┌──[Panel] - [sonic]
-└─➤
-```
+This project is created strictly for educational purposes.
+
+The developer is not responsible for misuse.  
+Always obtain permission before testing any network system.
 
 ---
 
-## ⚙ Requirements
+## ⚙ REQUIREMENTS
 
-- Python 3.x
+- Python 3.x  
+- Ubuntu / Debian recommended  
 
-Install dependencies (if needed):
+Install dependencies:
 
 ```
 pip install -r requirements.txt
@@ -89,30 +105,28 @@ pip install -r requirements.txt
 
 ---
 
-## ⚠ Disclaimer
+## 👤 DEVELOPER
 
-This project is created strictly for:
-
-- Educational purposes
-- Network research
-- Security testing in controlled environments
-
-The developer is **not responsible** for misuse or illegal activities.  
-Always obtain proper authorization before testing any system.
-
----
-
-## 👤 Developer
-
-**(GadaLuBau)**  
+**GadaLuBau**  
 SONIC NETWORK
 
 ---
 
-## ⭐ Support
+## ⭐ SUPPORT
 
 If you like this project:
 
-- ⭐ Star the repository
-- 🍴 Fork it
-- 🛠 Improve it
+⭐ Star Repository  
+🍴 Fork Project  
+🛠 Improve and Contribute  
+
+---
+
+## ⚠ DISCLAIMER
+
+This tool is intended only for:
+- Educational research  
+- Cybersecurity learning  
+- Authorized testing environments  
+
+Unauthorized usage is prohibited.
