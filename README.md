@@ -29,7 +29,7 @@ This project is strictly for educational purposes only.
 
 ## ⚡ FEATURES
 
-- ✔ Clean Cyber CLI Interface  
+- ✔ Cyber CLI Interface  
 - ✔ Login Authentication System  
 - ✔ Command Parsing Engine  
 - ✔ Layer4 / Layer7 / AMP Methods  
