@@ -6,7 +6,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3.x-00ffff?style=for-the-badge">
-<img src="https://img.shields.io/badge/Platform-Linux-ff00ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/Platform-Ubuntu-ff00ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/Platform-Ubuntu-ff00ff?style=for-the-badge">
 <img src="https://img.shields.io/badge/Status-Active-00ff88?style=for-the-badge">
 <img src="https://img.shields.io/badge/Purpose-Educational-ffaa00?style=for-the-badge">
 </p>
