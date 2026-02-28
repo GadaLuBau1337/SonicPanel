@@ -1,7 +1,11 @@
 # 🚀 SONIC NETWORK – CLI PANEL DDOS
 
 <p align="center">
-<img src="preview/preview.jpg" width="800">
+<img src="preview/tcp-down.jpg" width="800">
+</p>
+
+<p align="center">
+<img src="preview/ovh-bypass.jpg" width="800">
 </p>
 
 <p align="center">
