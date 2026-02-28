@@ -20,7 +20,7 @@
 
 ## 💀 ABOUT SONIC NETWORK
 
-**SONIC NETWORK** is a lightweight CLI network testing simulation panel built using Python.
+**SONIC NETWORK** is a lightweight CLI network testing panel built using Python.
 
 Designed for:
 - Cybersecurity learning  
