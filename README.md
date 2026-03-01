@@ -100,7 +100,8 @@ Always obtain permission before testing any network system.
 ## ⚙ REQUIREMENTS
 
 - Python 3.x  
-- Ubuntu / Debian recommended  
+- Ubuntu / Debian recommended
+- First run the script in the src folder to install the required modules.  
 
 Install dependencies:
 
