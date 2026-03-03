@@ -101,7 +101,8 @@ Always obtain permission before testing any network system.
 
 - Python 3.x  
 - Ubuntu / Debian recommended
-- First run the script in the src folder to install the required modules.  
+- First run the script in the src folder to install the required modules.
+- chmod +x src/layer4/* src/layer7/* src/amp/*
 
 Install dependencies:
 
